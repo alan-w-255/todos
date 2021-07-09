@@ -15,3 +15,7 @@
 - [x] 修改 TODO
 - [x] 删除 TODO
 - [x] 标记 TODO 状态为完成
+
+## 部署
+
+该应用已经部署一个实例在地址 'https://yuanmou.fun/todos/' , 可以在线体验。
